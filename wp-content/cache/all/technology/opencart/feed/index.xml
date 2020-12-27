@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Opencart &#8211; Media Shop Canada</title>
+	<atom:link href="https://mediashop.ca/technology/opencart/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mediashop.ca</link>
+	<description>Mobile app and Website Development Company</description>
+	<lastBuildDate>Thu, 20 Feb 2020 04:17:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.3</generator>
+	<item>
+		<title>Bharti Sharma</title>
+		<link>https://mediashop.ca/teams/bharti-sharma/</link>
+				<comments>https://mediashop.ca/teams/bharti-sharma/#respond</comments>
+				<pubDate>Mon, 17 Feb 2020 06:13:04 +0000</pubDate>
+		<dc:creator><![CDATA[Lalit Kumar]]></dc:creator>
+		
+		<guid isPermaLink="false">https://mediashop.ca/?post_type=team&#038;p=2252</guid>
+				<description><![CDATA[<p>I have 5+ years experience in web developement. I have worked on many projects, custom functionalities, custom modules and delivered those successfully.</p>
+<p>The post <a rel="nofollow" href="https://mediashop.ca/teams/bharti-sharma/">Bharti Sharma</a> appeared first on <a rel="nofollow" href="https://mediashop.ca">Media Shop Canada</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>I have 5+ years experience in web developement. I have worked on many projects, custom functionalities, custom modules and delivered those successfully.</p>
+<p>The post <a rel="nofollow" href="https://mediashop.ca/teams/bharti-sharma/">Bharti Sharma</a> appeared first on <a rel="nofollow" href="https://mediashop.ca">Media Shop Canada</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://mediashop.ca/teams/bharti-sharma/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Jasmeet Kaur</title>
+		<link>https://mediashop.ca/teams/jasmeet-kaur/</link>
+				<pubDate>Fri, 24 Jan 2020 06:29:26 +0000</pubDate>
+		<dc:creator><![CDATA[Lalit Kumar]]></dc:creator>
+		
+		<guid isPermaLink="false">https://mediashop.ca/?post_type=team&#038;p=1954</guid>
+				<description><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+<p>The post <a rel="nofollow" href="https://mediashop.ca/teams/jasmeet-kaur/">Jasmeet Kaur</a> appeared first on <a rel="nofollow" href="https://mediashop.ca">Media Shop Canada</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>I have 6 years of professional web development experience working with PHP, JavaScript/jQuery, Ajax, HTML5, CSS3, and MYSQL. I&#8217;ve developed a great deal of custom work for projects in custom wordpress themes &amp; plugins, extensions and customizing shopify themes.</p>
+<p>I will work with you to create your dream, solve your problem, or simply get the project done in a timely manner</p>
+<p>The post <a rel="nofollow" href="https://mediashop.ca/teams/jasmeet-kaur/">Jasmeet Kaur</a> appeared first on <a rel="nofollow" href="https://mediashop.ca">Media Shop Canada</a>.</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

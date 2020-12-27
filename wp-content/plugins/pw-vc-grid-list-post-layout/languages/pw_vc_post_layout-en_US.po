@@ -1,0 +1,950 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PW Grid/List Post Layout For Visual Composer v3.7\n"
+"POT-Creation-Date: 2016-01-30 02:09+0330\n"
+"PO-Revision-Date: 2016-01-30 02:09+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: .\n"
+
+#: ../class/admin-grid-ui.php:3 ../class/admin-list-ui.php:3
+msgid "Link to post"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:4 ../class/admin-list-ui.php:4
+msgid "No link"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:9
+msgid "PW Grid"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:10
+msgid "Grid Post Layout"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:15 ../class/admin-list-ui.php:15
+msgid "PW Post Layout"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:23 ../class/admin-grid-ui.php:33
+#: ../class/admin-grid-ui.php:296 ../class/admin-list-ui.php:23
+#: ../class/admin-list-ui.php:103 ../class/loop.php:213
+msgid "Title"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:26 ../class/admin-grid-ui.php:36
+#: ../class/admin-list-ui.php:26
+msgid "Enter Title."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:41 ../class/admin-list-ui.php:30
+msgid "Your Query"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:47 ../class/admin-list-ui.php:36
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:52
+msgid "Hide Recent Post(s)"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:54
+msgid "Hide Recent Post(s)."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:55 ../class/admin-grid-ui.php:258
+#: ../class/admin-grid-ui.php:269 ../class/admin-grid-ui.php:280
+#: ../class/admin-grid-ui.php:330 ../class/admin-grid-ui.php:372
+#: ../class/admin-grid-ui.php:383 ../class/admin-grid-ui.php:394
+#: ../class/admin-grid-ui.php:441 ../class/admin-grid-ui.php:452
+#: ../class/admin-grid-ui.php:463 ../class/admin-list-ui.php:153
+#: ../class/admin-list-ui.php:187 ../class/admin-list-ui.php:195
+#: ../class/admin-list-ui.php:203 ../class/admin-list-ui.php:240
+#: ../class/admin-list-ui.php:248
+msgid "Yes, please"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:61
+msgid "Post Number"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:66
+msgid "Enter Count of Recent Post(s).Default : 1"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:78 ../class/admin-list-ui.php:42
+msgid "Link Target"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:80 ../class/admin-list-ui.php:44
+msgid "Same window"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:80 ../class/admin-list-ui.php:44
+msgid "New window"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:81 ../class/admin-list-ui.php:45
+msgid "Choose link target"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:89
+msgid "Grid Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:92
+msgid "Standard Grid (Fix row)"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:93
+msgid "Advanced Grid (Mixitup)"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:94
+msgid "Masonry Grid"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:96
+msgid "Choose Grid Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:103
+msgid "Add Filter"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:106
+msgid ""
+"Choose Taxonomy Type for Use in Grid Filter. If there is no item, Please "
+"choose post type in Build Query."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:118
+msgid "Desktop Columns Count"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:121 ../class/admin-grid-ui.php:135
+#: ../class/admin-grid-ui.php:149
+msgid "1 Column"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:122 ../class/admin-grid-ui.php:136
+#: ../class/admin-grid-ui.php:150
+msgid "2 Columns"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:123 ../class/admin-grid-ui.php:137
+#: ../class/admin-grid-ui.php:151
+msgid "3 Columns"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:124 ../class/admin-grid-ui.php:138
+#: ../class/admin-grid-ui.php:152
+msgid "4 Columns"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:126
+msgid "Choose Desktop(PC Mode) Columns Count"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:132
+msgid "Tablet Columns Count"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:140
+msgid "Choose Tablet Columns Count"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:146
+msgid "Mobile Columns Count"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:154
+msgid "Choose Mobile Columns Count"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:161
+msgid "Grid Skin"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:164
+msgid "Skin One"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:165
+msgid "Skin Two"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:167
+msgid "Choose Grid Skin"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:174
+msgid "Grid Effect"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:177
+msgid "Effect 1"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:178
+msgid "Effect 2"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:179
+msgid "Effect 3"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:180
+msgid "Effect 4"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:181
+msgid "Effect 5"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:182
+msgid "Effect 6"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:183
+msgid "Effect 7"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:184
+msgid "Effect 8"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:185
+msgid "Effect 9"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:186
+msgid "Effect 10"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:187
+msgid "Effect 11"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:188
+msgid "Effect 12"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:189
+msgid "Effect 13"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:190
+msgid "Effect 14"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:191
+msgid "Effect 15"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:192
+msgid "Effect 16"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:193
+msgid "Effect 17"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:194
+msgid "Effect 18"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:195
+msgid "Effect 19"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:196
+msgid "Effect 20"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:198
+msgid "Choose Grid Effect"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:211 ../class/admin-list-ui.php:68
+msgid "Page Navigation"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:214 ../class/admin-list-ui.php:71
+msgid "No Pagination"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:215 ../class/admin-list-ui.php:72
+msgid "Show \"Show More\" Button"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:216 ../class/admin-list-ui.php:73
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:217 ../class/admin-list-ui.php:74
+msgid "Show Page Number"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:219 ../class/admin-list-ui.php:76
+msgid "Choose Page Navigation Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:225 ../class/admin-list-ui.php:82
+msgid "Page Number Style"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:228 ../class/admin-list-ui.php:85
+msgid "Style 1"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:229 ../class/admin-list-ui.php:86
+msgid "Style 2"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:231 ../class/admin-list-ui.php:88
+#: ../class/admin-list-ui.php:125
+msgid "Choose Page Number Style"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:241
+msgid "Default Display Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:244
+msgid "Grid (With Switch to List)"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:245
+msgid "List (With Switch to Grid)"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:247
+msgid "Choose Default Display Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:255
+msgid "Show Filter"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:257
+msgid "Enables Filter Bar."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:266
+msgid "Show Order By"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:268
+msgid "Enables order By."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:277
+msgid "Hide Switch Mode Icon"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:279
+msgid "Hide icon for switch Grid to List or List to Grid."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:290 ../class/admin-list-ui.php:97
+msgid "Teaser layout"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:292 ../class/admin-list-ui.php:99
+msgid ""
+"Control teasers look. Enable blocks and place them in desired order. Note: "
+"This setting can be overrriden on post to post basis."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:295 ../class/admin-list-ui.php:102
+msgid "Thumbnail"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:297 ../class/admin-list-ui.php:104
+msgid "Text"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:298 ../class/admin-list-ui.php:105
+msgid "Teaser/Excerpt"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:299 ../class/admin-list-ui.php:106
+msgid "Full content"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:301 ../class/admin-list-ui.php:108
+msgid "Read more link"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:312 ../class/admin-list-ui.php:135
+msgid "Excerpt/Content Length"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:317 ../class/admin-list-ui.php:140
+msgid "Enter Excerpt/Content length"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:321 ../class/admin-list-ui.php:144
+msgid "Thumbnail size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:323 ../class/admin-list-ui.php:146
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height) . "
+msgstr ""
+
+#: ../class/admin-grid-ui.php:327 ../class/admin-list-ui.php:150
+msgid "Hide Date"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:329 ../class/admin-list-ui.php:152
+msgid "Show post Date."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:340 ../class/admin-list-ui.php:160
+msgid "Date Format"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:343 ../class/admin-list-ui.php:163
+msgid ""
+"Enter Date Format.Show More Info <a href='http://codex.wordpress.org/"
+"Formatting_Date_and_Time' target='_new'>Here</a>"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:353 ../class/admin-list-ui.php:172
+msgid "Image Effect"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:356 ../class/admin-grid-ui.php:406
+#: ../class/admin-grid-ui.php:423 ../class/admin-list-ui.php:175
+#: ../class/admin-list-ui.php:212 ../class/admin-list-ui.php:227
+msgid "None"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:357 ../class/admin-list-ui.php:176
+msgid "Zoom In"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:358 ../class/admin-list-ui.php:177
+msgid "Zoom Out"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:359 ../class/admin-list-ui.php:178
+msgid "Rotate Right"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:361 ../class/admin-list-ui.php:180
+msgid "Choose image effect"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:369 ../class/admin-list-ui.php:184
+msgid "Hide Overly"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:371 ../class/admin-list-ui.php:186
+msgid "Hide Overlay."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:380 ../class/admin-list-ui.php:192
+msgid "Hide Zoom Icon"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:382
+msgid "Hide Zoom Icon."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:391 ../class/admin-list-ui.php:200
+msgid "Hide Link Icon"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:393
+msgid "Hide Link Icon."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:403 ../class/admin-list-ui.php:209
+msgid "Icon Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:407 ../class/admin-list-ui.php:213
+msgid "Squar"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:408 ../class/admin-list-ui.php:214
+msgid "Round"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:410 ../class/admin-grid-ui.php:428
+#: ../class/admin-list-ui.php:216 ../class/admin-list-ui.php:232
+msgid "Choose icon effect"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:420 ../class/admin-list-ui.php:224
+msgid "Icon Effect"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:424 ../class/admin-list-ui.php:228
+msgid "Dropdown"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:425 ../class/admin-list-ui.php:229
+msgid "DropUp"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:426 ../class/admin-list-ui.php:230
+msgid "Scale"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:438
+msgid "Hide Author"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:440
+msgid "Hide post author."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:449 ../class/admin-list-ui.php:237
+msgid "Hide meta"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:451 ../class/admin-list-ui.php:239
+msgid "Hide Tags/Categorise/Taxonomies."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:460 ../class/admin-list-ui.php:245
+msgid "Hide comment(s) No"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:462 ../class/admin-list-ui.php:247
+msgid "Hide number of comments"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:474 ../class/admin-list-ui.php:256
+msgid "Item Border Top Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:479 ../class/admin-list-ui.php:261
+msgid "Enter Border Top Size for item"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:489 ../class/admin-list-ui.php:267
+msgid "Item Border Top Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:492 ../class/admin-grid-ui.php:538
+#: ../class/admin-grid-ui.php:584 ../class/admin-grid-ui.php:630
+#: ../class/admin-list-ui.php:270 ../class/admin-list-ui.php:306
+#: ../class/admin-list-ui.php:343 ../class/admin-list-ui.php:380
+msgid "Solid"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:493 ../class/admin-grid-ui.php:539
+#: ../class/admin-grid-ui.php:585 ../class/admin-grid-ui.php:631
+#: ../class/admin-list-ui.php:271 ../class/admin-list-ui.php:307
+#: ../class/admin-list-ui.php:344 ../class/admin-list-ui.php:381
+msgid "Dashed"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:494 ../class/admin-grid-ui.php:540
+#: ../class/admin-grid-ui.php:586 ../class/admin-grid-ui.php:632
+#: ../class/admin-list-ui.php:272 ../class/admin-list-ui.php:308
+#: ../class/admin-list-ui.php:345 ../class/admin-list-ui.php:382
+msgid "Dotted"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:495 ../class/admin-grid-ui.php:541
+#: ../class/admin-grid-ui.php:587 ../class/admin-grid-ui.php:633
+#: ../class/admin-list-ui.php:273 ../class/admin-list-ui.php:309
+#: ../class/admin-list-ui.php:346 ../class/admin-list-ui.php:383
+msgid "Double"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:497 ../class/admin-list-ui.php:275
+msgid "Choose Border Top Type for item"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:507 ../class/admin-list-ui.php:281
+msgid "Item Border Top Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:510 ../class/admin-list-ui.php:284
+msgid "Choose Border Top Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:520 ../class/admin-list-ui.php:291
+msgid "Item Border Right Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:525 ../class/admin-list-ui.php:296
+msgid "Enter Border Right Size for item"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:535 ../class/admin-list-ui.php:303
+msgid "Item Border Right Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:543 ../class/admin-list-ui.php:311
+msgid "Choose Border Right Type for item"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:553 ../class/admin-list-ui.php:318
+msgid "Item Border Right Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:556 ../class/admin-list-ui.php:321
+msgid "Choose Border Right Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:566 ../class/admin-list-ui.php:328
+msgid "Item Border Bottom Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:571 ../class/admin-list-ui.php:333
+msgid "Enter Border Bottom Size for item"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:581 ../class/admin-list-ui.php:340
+msgid "Item Border Bottom Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:589 ../class/admin-list-ui.php:348
+msgid "Choose Bottom Top Typ for item"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:599 ../class/admin-list-ui.php:355
+msgid "Item Border Bottom Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:602 ../class/admin-list-ui.php:358
+msgid "Choose Border Bottom Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:612 ../class/admin-list-ui.php:365
+msgid "Item Border Left Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:617 ../class/admin-list-ui.php:370
+msgid "Enter Border Left Size for item"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:627 ../class/admin-list-ui.php:377
+msgid "Item Border Left Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:635 ../class/admin-list-ui.php:385
+msgid "Choose Border Left Type for item"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:645 ../class/admin-list-ui.php:392
+msgid "Border Left Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:648 ../class/admin-list-ui.php:395
+msgid "Choose Border Left Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:658 ../class/admin-list-ui.php:403
+msgid "Backgroud Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:661 ../class/admin-list-ui.php:406
+msgid "Choose Background Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:671 ../class/admin-list-ui.php:414
+msgid "Backgroud Hover Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:674 ../class/admin-list-ui.php:417
+msgid "Choose Background Hover Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:695 ../class/admin-list-ui.php:425
+msgid "Title Font Family"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:698 ../class/admin-grid-ui.php:738
+#: ../class/admin-grid-ui.php:779 ../class/admin-list-ui.php:428
+#: ../class/admin-list-ui.php:467 ../class/admin-list-ui.php:496
+msgid "Choose font."
+msgstr ""
+
+#: ../class/admin-grid-ui.php:703 ../class/admin-list-ui.php:433
+msgid "Title Font Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:708 ../class/admin-list-ui.php:438
+msgid "Enter Title Font Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:714 ../class/admin-list-ui.php:445
+msgid "Link Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:717 ../class/admin-list-ui.php:448
+msgid "Choose Link Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:724 ../class/admin-list-ui.php:455
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:727 ../class/admin-list-ui.php:458
+msgid "Choose Link Hover Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:735 ../class/admin-list-ui.php:464
+msgid "Meta Font Family"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:747 ../class/admin-list-ui.php:472
+msgid "Meta Font Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:752 ../class/admin-list-ui.php:477
+msgid "Enter Meta Font Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:762 ../class/admin-list-ui.php:483
+msgid "Meta Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:765 ../class/admin-list-ui.php:486
+msgid "Choose Meta Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:776 ../class/admin-list-ui.php:493
+msgid "Excerpt Font Family"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:784 ../class/admin-list-ui.php:501
+msgid "Excerpt Font Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:789 ../class/admin-list-ui.php:506
+msgid "Enter Excerpt Font Size"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:795 ../class/admin-list-ui.php:512
+msgid "Excerpt Color"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:798 ../class/admin-list-ui.php:515
+msgid "Choose Excerpt Color.Leave blank to ignore"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:805 ../class/admin-list-ui.php:522
+msgid "Read More Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:808 ../class/admin-list-ui.php:525
+msgid "Type 1"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:809 ../class/admin-list-ui.php:526
+msgid "Type 2"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:811 ../class/admin-list-ui.php:528
+msgid "Choose Read More Type"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:822 ../class/admin-list-ui.php:536
+msgid "Read More Translate"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:824 ../class/admin-list-ui.php:538
+#: ../class/calss.php:778 ../class/calss.php:893 ../class/calss.php:1042
+#: ../class/calss.php:1147 ../class/frontend-grid-ui.php:195
+#: ../class/frontend-list-ui.php:166
+msgid "Read More"
+msgstr ""
+
+#: ../class/admin-grid-ui.php:825 ../class/admin-list-ui.php:539
+msgid "set Translate for 'Read More' button"
+msgstr ""
+
+#: ../class/admin-list-ui.php:9
+msgid "PW List"
+msgstr ""
+
+#: ../class/admin-list-ui.php:10
+msgid "list Post Layout"
+msgstr ""
+
+#: ../class/admin-list-ui.php:53
+msgid "List Type"
+msgstr ""
+
+#: ../class/admin-list-ui.php:56
+msgid "Medium Image"
+msgstr ""
+
+#: ../class/admin-list-ui.php:57
+msgid "Large Image"
+msgstr ""
+
+#: ../class/admin-list-ui.php:59
+msgid "Choose List Type"
+msgstr ""
+
+#: ../class/admin-list-ui.php:119
+msgid "Choose text type"
+msgstr ""
+
+#: ../class/admin-list-ui.php:122
+msgid "Full Content"
+msgstr ""
+
+#: ../class/admin-list-ui.php:123
+msgid "Excerpt"
+msgstr ""
+
+#: ../class/admin-list-ui.php:194
+msgid "Show Zoom Icon."
+msgstr ""
+
+#: ../class/admin-list-ui.php:202
+msgid "Show Link Icon."
+msgstr ""
+
+#: ../class/calss.php:620
+msgid "For Enable Filter in Grid, Select Just One Post!"
+msgstr ""
+
+#: ../class/calss.php:621
+msgid "You muse checke just one post for add filter to Grid!"
+msgstr ""
+
+#: ../class/frontend-grid-ui.php:659 ../class/frontend-grid-ui.php:688
+msgid "All"
+msgstr ""
+
+#: ../class/frontend-grid-ui.php:740
+msgid "Grid View"
+msgstr ""
+
+#: ../class/frontend-grid-ui.php:741
+msgid "List View"
+msgstr ""
+
+#: ../class/frontend-grid-ui.php:1246 ../class/frontend-list-ui.php:626
+msgid "LOAD MORE"
+msgstr ""
+
+#: ../class/frontend-grid-ui.php:2097 ../class/frontend-list-ui.php:918
+msgid "Page"
+msgstr ""
+
+#: ../class/frontend-grid-ui.php:2097 ../class/frontend-list-ui.php:918
+msgid "of"
+msgstr ""
+
+#: ../class/loop.php:140
+msgid "Post Count"
+msgstr ""
+
+#: ../class/loop.php:141
+msgid "Order By"
+msgstr ""
+
+#: ../class/loop.php:142
+msgid "Order"
+msgstr ""
+
+#: ../class/loop.php:143
+msgid "Post types"
+msgstr ""
+
+#: ../class/loop.php:144 ../class/loop.php:212
+msgid "Author"
+msgstr ""
+
+#: ../class/loop.php:145
+msgid "Categories"
+msgstr ""
+
+#: ../class/loop.php:146
+msgid "Tags"
+msgstr ""
+
+#: ../class/loop.php:147
+msgid "Taxonomies"
+msgstr ""
+
+#: ../class/loop.php:148
+msgid "Individual Posts/Pages"
+msgstr ""
+
+#: ../class/loop.php:210
+msgid "Date"
+msgstr ""
+
+#: ../class/loop.php:215
+msgid "Modified"
+msgstr ""
+
+#: ../class/loop.php:217
+msgid "Random"
+msgstr ""
+
+#: ../class/loop.php:218
+msgid "Comment count"
+msgstr ""
+
+#: ../class/loop.php:219
+msgid "Menu order"
+msgstr ""
+
+#: ../class/loop.php:228
+msgid "Ascending"
+msgstr ""
+
+#: ../class/loop.php:229
+msgid "Descending"
+msgstr ""
+
+#: ../main.php:17 ../main_class.php:5
+msgid "The"
+msgstr ""
+
+#: ../main.php:17
+msgid "PW Grid/List Post Layout for Visual Composer"
+msgstr ""
+
+#: ../main.php:17 ../main_class.php:5
+msgid "plugin requires"
+msgstr ""
+
+#: ../main.php:17 ../main_class.php:5
+msgid "Visual Composer"
+msgstr ""
+
+#: ../main.php:17
+msgid "Plugin installed and activated"
+msgstr ""
+
+#: ../main_class.php:5
+msgid "PW Box Post Layout for Visual Composer"
+msgstr ""
+
+#: ../main_class.php:5
+msgid "version 4.6.0 or greater"
+msgstr ""
+
+#: ../main_class.php:58
+msgid "Docs"
+msgstr ""

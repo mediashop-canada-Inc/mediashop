@@ -1,0 +1,15 @@
+name: mediashop
+recipe: wordpress
+config:
+  php: '7.0'
+  webroot: .
+services:
+  appserver:
+    xdebug: true
+  database:
+    type: 'mariadb'
+    creds:
+      user: mediashop
+      password: mediashop
+      database: mediashop
+    portforward: 7111
